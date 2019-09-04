@@ -7,7 +7,7 @@
 
 (define katas
   (fill-in-stimuli
-    (lang->kata-collection 'Summer2019/Languages/my-fractal-lang)
+    (lang->kata-collection 'my-fractal-lang)
     stimuli))
 
 (define-sub-collections katas
