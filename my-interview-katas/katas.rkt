@@ -2,7 +2,8 @@
 
 (provide katas)
 
-(require ts-kata-util/katas/main)
+(require ts-kata-util/katas/main
+         "./katas/read-code-stimuli.rkt")
 
 (define katas
   (fill-in-stimuli
