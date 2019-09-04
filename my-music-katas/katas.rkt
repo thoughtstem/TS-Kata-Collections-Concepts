@@ -1,8 +1,5 @@
 #lang racket
 
-;=== NOTES ===
-;
-
 (provide katas)
 
 (require ts-kata-util/katas/main
