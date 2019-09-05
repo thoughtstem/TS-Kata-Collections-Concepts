@@ -7,7 +7,7 @@
 
 (define katas
   (fill-in-stimuli
-   (lang->kata-collection 'Summer2019/Languages/my-vr-lang)
+   (lang->kata-collection 'my-vr-lang)
    stimuli))
 
 

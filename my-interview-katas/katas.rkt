@@ -7,7 +7,7 @@
 
 (define katas
   (fill-in-stimuli
-    (lang->kata-collection 'Summer2019/Languages/my-interview-lang)
+    (lang->kata-collection 'my-interview-lang)
     stimuli))
 
 (define-sub-collections katas

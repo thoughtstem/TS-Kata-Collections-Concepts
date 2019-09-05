@@ -7,7 +7,7 @@
 
 (define katas
   (fill-in-stimuli
-    (lang->kata-collection 'Summer2019/Languages/my-memes-lang)
+    (lang->kata-collection 'my-memes-lang)
     stimuli))
 
 
