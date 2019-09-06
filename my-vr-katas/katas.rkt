@@ -6,7 +6,7 @@
          "./katas/read-code-stimuli.rkt")
 
 (define katas
-  (fill-in-stimuli
+  (apply fill-in-stimuli
    (lang->kata-collection 'my-vr-lang)
    stimuli))
 
